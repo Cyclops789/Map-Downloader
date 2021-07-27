@@ -10,14 +10,14 @@
 		},
 		{
 			"name": "MAXFPS Zombie Plague",
-			"mapList": "https://vauff.com/gfl-ze-maps.csv",
+			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/zm.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
 		},
 		{
 			"name": "MAXFPS Vanilla Surf",
-			"mapList": "https://raw.githubusercontent.com/EG-DEVIL/GUC-CONFIGS/master/maps.csv",
+			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/surf.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
