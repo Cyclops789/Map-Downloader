@@ -2,22 +2,29 @@
 	"servers":
 	[
 		{
-			"name": "MAXFPS Zombie escape",
+			"name": "MAXFPS Zombie escape (Maps: 262)",
 			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/maps.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\cstrike\\maps\\"
 		},
 		{
-			"name": "MAXFPS Zombie Plague",
+			"name": "MAXFPS Zombie Plague (Maps: 94)",
 			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/zm.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\cstrike\\maps\\"
 		},
 		{
-			"name": "MAXFPS Vanilla Surf",
+			"name": "MAXFPS Vanilla Surf (Maps: 109)",
 			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/surf.csv",
+			"fastDL": "https://maxfps.xyz/maps/",
+			"appID": "240",
+			"mapsDirectory": "\\cstrike\\maps\\"
+		},
+		{
+			"name": "MAXFPS MIX1/MIX2/MIX3 (Maps: )",
+			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/mix.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\cstrike\\maps\\"
