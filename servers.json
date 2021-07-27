@@ -23,7 +23,7 @@
 			"mapsDirectory": "\\cstrike\\maps\\"
 		},
 		{
-			"name": "MAXFPS MIX1/MIX2/MIX3 (Maps: )",
+			"name": "MAXFPS MIX1/MIX2/MIX3 (Maps: 45)",
 			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/mix.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
