@@ -1,0 +1,33 @@
+{
+	"servers":
+	[
+		{
+			"name": "MAXFPS Zombie escape",
+			"mapList": "https://vauff.com/gfl-mg-maps.csv",
+			"fastDL": "https://maxfps.xyz/maps/",
+			"appID": "240",
+			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
+		},
+		{
+			"name": "MAXFPS Zombie Plague",
+			"mapList": "https://vauff.com/gfl-ze-maps.csv",
+			"fastDL": "https://maxfps.xyz/maps/",
+			"appID": "240",
+			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
+		},
+		{
+			"name": "MAXFPS Vanilla Surf",
+			"mapList": "https://raw.githubusercontent.com/EG-DEVIL/GUC-CONFIGS/master/maps.csv",
+			"fastDL": "https://maxfps.xyz/maps/",
+			"appID": "240",
+			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
+		},
+		{
+			"name": "Bhop maps",
+			"mapList": "https://raw.githubusercontent.com/EG-DEVIL/GUC-CONFIGS/master/maps.csv",
+			"fastDL": "https://maxfps.xyz/maps/",
+			"appID": "240",
+			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
+		}
+	]
+}
