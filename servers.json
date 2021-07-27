@@ -3,7 +3,7 @@
 	[
 		{
 			"name": "MAXFPS Zombie escape",
-			"mapList": "https://vauff.com/gfl-mg-maps.csv",
+			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/maps.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
