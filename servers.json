@@ -21,13 +21,6 @@
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
-		},
-		{
-			"name": "Bhop maps",
-			"mapList": "https://raw.githubusercontent.com/EG-DEVIL/GUC-CONFIGS/master/maps.csv",
-			"fastDL": "https://maxfps.xyz/maps/",
-			"appID": "240",
-			"mapsDirectory": "\\CSSv34_ClientMod\\cstrike\\maps\\"
 		}
 	]
 }
