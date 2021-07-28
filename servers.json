@@ -2,7 +2,7 @@
 	"servers":
 	[
 		{
-			"name": "MAXFPS Zombie escape",
+			"name": "MAXFPS Zombie Escape",
 			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/maps.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
@@ -23,8 +23,15 @@
 			"mapsDirectory": "\\cstrike\\maps\\"
 		},
 		{
-			"name": "MAXFPS MIX1/MIX2/MIX3",
+			"name": "MAXFPS AutoMix/CW #1/#2/#3",
 			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/mix.csv",
+			"fastDL": "https://maxfps.xyz/maps/",
+			"appID": "240",
+			"mapsDirectory": "\\cstrike\\maps\\"
+		}
+		{
+			"name": "MAXFPS Aim/Awp",
+			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/aim.csv",
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\cstrike\\maps\\"
