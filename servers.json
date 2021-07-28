@@ -28,7 +28,7 @@
 			"fastDL": "https://maxfps.xyz/maps/",
 			"appID": "240",
 			"mapsDirectory": "\\cstrike\\maps\\"
-		}
+		},
 		{
 			"name": "MAXFPS Aim/Awp",
 			"mapList": "https://raw.githubusercontent.com/cyclops-css/smth/main/aim.csv",
